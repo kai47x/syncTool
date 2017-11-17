@@ -1,0 +1,2 @@
+# syncTool
+Verzeichnisse synchronisieren
